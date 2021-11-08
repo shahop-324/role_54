@@ -57,6 +57,7 @@ const HeadingMain = styled.div`
   letter-spacing: 14px;
 `;
 
+
 function App() {
   const [openSignup, setOpenSignup] = React.useState(false);
   const [openSignin, setOpenSignin] = React.useState(false);
